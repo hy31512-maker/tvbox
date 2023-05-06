@@ -1195,7 +1195,7 @@ NewTV精品大剧,http://117.169.121.162:6610/PLTV/88888910/224/3221225714/index
 超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
 七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 
-🧨 浙江频道,#genre#
+🎍 浙江频道,#genre#
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed
 浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
